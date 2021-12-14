@@ -138,7 +138,6 @@ int main() {
             } else {
                 printf("%c", '.');
             }
-            //printf("%c", dot_map[y * w + x] ? '#' : '.');
         }
         printf("\n");
 	}
